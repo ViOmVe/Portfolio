@@ -35,7 +35,6 @@ header a {
 }
 
 header a:hover {
-    color: white;
     transition: .3s;
     transform: scale(1.08);
 }
@@ -64,10 +63,10 @@ header .btn-contato button {
     border-radius: 30px;
     background-color: #5941A9;
     cursor: pointer;
+    color: white;
 }
 
 header .btn-contato button:hover {
-    color: white;
     transform: scale(1.08);
     box-shadow: 0px 1px 10px rgba(255, 255, 255, 0.712);
 }
