@@ -37,6 +37,7 @@ header a {
 header a:hover {
     transition: .3s;
     transform: scale(1.08);
+    color: white;
 }
 
 header > .interface {
